@@ -1,0 +1,13 @@
+.icones{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+  }
+  
+  .icone {
+    margin-right: 40px;
+  }
+  
+  li{
+    list-style: none;
+  }
